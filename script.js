@@ -28,4 +28,4 @@ let isalive = setInterval(function(){
 
 document.addEventListener("keydown", function (event) {
     jump();
-} );
+} ); 
