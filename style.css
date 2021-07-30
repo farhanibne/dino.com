@@ -41,7 +41,7 @@ margin: auto;
     top: 110px;
     left: 580px;
     background-color: dimgrey;
-    animation: block 1s infinite ;
+    animation: block 1s infinite linear;
 }
 
 @keyframes block{
